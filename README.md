@@ -1,6 +1,6 @@
-# ChatApp
+# ChatApp [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 Simple Chat application using Socket.Io ,NodeJS and ReactJS.
-[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
 
 # Installing the packages
 
